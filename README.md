@@ -1,3 +1,3 @@
 # Quiz App
 
-(Site Linki) [https://erkuttbulutt.github.io/quiz-app/]
+[Site Linki](https://erkuttbulutt.github.io/quiz-app/)
